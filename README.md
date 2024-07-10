@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple steps.
  
 ### Project Structure
 
-`maxwheels/
+```sh maxwheels/
 ├── css/
 │   ├── style.css
 ├── js/
