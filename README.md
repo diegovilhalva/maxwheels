@@ -50,6 +50,7 @@ To get a local copy up and running follow these simple steps.
 │   ├── (all image assets)
 ├── index.html
 └── README.md
+```
 
 - index.html: The main HTML file that structures the landing page.
 - css/style.css: The CSS file that styles the landing page.
