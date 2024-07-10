@@ -37,16 +37,21 @@ To get a local copy up and running follow these simple steps.
    ```sh
     cd car-sales-landing-page
 
-3. Open index.html in your browser to view the site:
- ```sh 
-    open index.html
+3. Open index.html in your browser to view the site
+ 
+### Project Structure
 
-```car-sales-landing-page/
+`maxwheels/
 ├── css/
 │   ├── style.css
 ├── js/
 │   ├── script.js
-├── images/
+├── img/
 │   ├── (all image assets)
 ├── index.html
 └── README.md
+
+- index.html: The main HTML file that structures the landing page.
+- css/style.css: The CSS file that styles the landing page.
+- js/script.js: The JavaScript file that adds interactivity to the landing page.
+- images/: The directory containing all image assets used in the project.
